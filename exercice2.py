@@ -80,7 +80,7 @@ def emptystring(characterstring):
         else:
             return False
     except TypeError:
-        return "Chaîne de caractère non valide"
+        return "Chaîne de caractère incorrecte"
 
 ex = ""
 print(emptystring(ex))
