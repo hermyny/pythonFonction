@@ -37,3 +37,7 @@ Créez une fonction qui prend une liste de nombres, et renvoie le plus grand nom
 
 # Exercice 8:
 Créez une fonction qui prend une liste et renvoie la somme de tous les nombres de la liste.
+
+
+# Exercice 8:
+Créez une fonction qui prend une liste de nombres et renvoie le plus petit nombre de la liste.

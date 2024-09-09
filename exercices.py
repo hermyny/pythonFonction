@@ -56,4 +56,18 @@ print(f'Le plus grand nombre parmi ces derniers {number} est {result} ')
 
 
 
+# Exercice 8
 
+def sumListNumber(list):
+    return sum(list)
+
+number = [0,0,0,1]
+result = sumListNumber(number)
+print(f'La somme de cette liste est {result} ')
+
+def minNumber(list):
+    return min(list)
+
+number = [41477, 145, 6587, -12547, 54, 56547, 4447895, 41, 54, 52]
+result = minNumber(number)
+print(f'Le plus grand nombre parmi ces derniers {number} est {result} ')
